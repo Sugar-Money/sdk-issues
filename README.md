@@ -3,7 +3,7 @@
 This repo is dedicated to collecting bug reports, feature requests, and other feedback related to our SDK.
 
 - [JavaScript SDK](https://www.npmjs.com/package/sugar-money)
-- [Rust SDK](https://crates.io/crates/sugar-money)
+- Rust SDK - coming soon 🦀
 
 ## Creating an Issue
 
