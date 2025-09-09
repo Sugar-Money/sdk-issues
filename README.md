@@ -1,9 +1,9 @@
 # Sugar Money SDK Issues
 
-This repo is dedicated to collecting bug reports, feature requests, and other feedback related to our SDK.
+This repo is dedicated to collecting bug reports, feature requests, and other feedback related to our SDKs.
 
 - [JavaScript SDK](https://www.npmjs.com/package/sugar-money)
-- Rust SDK - coming soon 🦀
+- [Rust SDK](https://crates.io/crates/sugar-money)
 
 ## Creating an Issue
 
